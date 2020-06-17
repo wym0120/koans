@@ -1,0 +1,2 @@
+D:\github\Kotlin Koans\Collections\Sum\src\Shop.kt
+D:\github\Kotlin Koans\Collections\Sum\src\Task.kt

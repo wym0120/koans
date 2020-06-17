@@ -1,0 +1,2 @@
+D:\github\Kotlin Koans\Collections\Max min\src\Shop.kt
+D:\github\Kotlin Koans\Collections\Max min\src\Task.kt

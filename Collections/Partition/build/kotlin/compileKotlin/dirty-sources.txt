@@ -1,0 +1,2 @@
+D:\github\Kotlin Koans\Collections\Partition\src\Shop.kt
+D:\github\Kotlin Koans\Collections\Partition\src\Task.kt
