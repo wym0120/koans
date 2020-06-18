@@ -2,10 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95a1a69-be1b-48bf-a397-f420e85dbd06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Extension functions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Extension functions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Associate/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Associate/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Filter map/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Filter map/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/FlatMap/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/FlatMap/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Getting used to new style/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Getting used to new style/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Getting used to new style/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Getting used to new style/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collections/Max min/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Max min/src/Task.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collections/Max min/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Max min/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Partition/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sequences/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sequences/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sequences/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sequences/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sum/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sum/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/For loop/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/For loop/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Invoke/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Invoke/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Operators overloading/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Operators overloading/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Ranges/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Ranges/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Default arguments/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Default arguments/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Named arguments/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Named arguments/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +92,19 @@
       <option name="presentableId" value="Default" />
       <updated>1592234287697</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1592364667503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592364667503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="584" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1592312213584">
@@ -71,10 +115,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="350" y="14" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1592364666164" />
-    <state x="43" y="94" width="1288" height="676" key="DiffContextDialog" timestamp="1592322953766">
+    <state x="43" y="94" width="1288" height="676" key="DiffContextDialog" timestamp="1592466426264">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="43" y="94" width="1288" height="676" key="DiffContextDialog/62.0.1474.864@62.0.1474.864" timestamp="1592322953766" />
+    <state x="43" y="94" width="1288" height="676" key="DiffContextDialog/62.0.1474.864@62.0.1474.864" timestamp="1592466426264" />
     <state x="157" y="93" width="1286" height="678" key="DiffContextDialog/64.0.1472.864@64.0.1472.864" timestamp="1592306707442" />
     <state x="301" y="74" key="SettingsEditor" timestamp="1592314217279">
       <screen x="62" y="0" width="1474" height="864" />
@@ -84,10 +128,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1592364669320" />
-    <state x="480" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1592363608490">
+    <state x="480" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1592464711452">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="480" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1592363608490" />
+    <state x="480" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1592464711452" />
     <state x="481" y="256" key="com.intellij.ide.util.TipDialog/64.0.1472.864@64.0.1472.864" timestamp="1592285183794" />
   </component>
 </project>

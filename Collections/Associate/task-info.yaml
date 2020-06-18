@@ -13,7 +13,7 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.associateBy(Customer::name)
     selected: true
-    status: Unchecked
+    status: Solved
   - offset: 258
     length: 35
     placeholder_text: TODO()
@@ -23,7 +23,7 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.associateWith(Customer::city)
     selected: false
-    status: Unchecked
+    status: Solved
   - offset: 409
     length: 42
     placeholder_text: TODO()
@@ -33,7 +33,7 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.associate { it.name to it.city }
     selected: true
-    status: Unchecked
+    status: Solved
   text: |-
     // Build a map from the customer name to the customer
     fun Shop.nameToCustomerMap(): Map<String, Customer> =

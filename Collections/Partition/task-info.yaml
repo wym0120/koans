@@ -17,7 +17,7 @@ files:
           undelivered.size > delivered.size
       }.toSet()
     selected: true
-    status: Unchecked
+    status: Solved
   text: |
     // Return customers who have more undelivered orders than delivered
     fun Shop.getCustomersWithMoreUndeliveredOrders(): Set<Customer> = TODO()

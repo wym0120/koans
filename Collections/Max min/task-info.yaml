@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 122
-    length: 38
+    length: 37
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -13,8 +13,8 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.maxBy { it.orders.size }
     selected: true
-    status: Unchecked
-  - offset: 313
+    status: Solved
+  - offset: 312
     length: 75
     placeholder_text: TODO()
     initial_state:
@@ -26,7 +26,7 @@ files:
                       .flatMap(Order::products)
                       .maxBy(Product::price)
     selected: true
-    status: Unchecked
+    status: Solved
   text: |
     // Return a customer who has placed the maximum amount of orders
     fun Shop.getCustomerWithMaxOrders(): Customer? =

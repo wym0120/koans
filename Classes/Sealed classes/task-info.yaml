@@ -13,7 +13,7 @@ files:
     initialized_from_dependency: false
     possible_answer: expr.value
     selected: false
-    status: Unchecked
+    status: Solved
   - offset: 133
     length: 6
     placeholder_text: TODO()
@@ -23,7 +23,7 @@ files:
     initialized_from_dependency: false
     possible_answer: eval(expr.left) + eval(expr.right)
     selected: false
-    status: Unchecked
+    status: Solved
   - offset: 151
     length: 17
     placeholder_text: interface Expr
@@ -33,7 +33,7 @@ files:
     initialized_from_dependency: false
     possible_answer: sealed class Expr
     selected: true
-    status: Unchecked
+    status: Solved
   - offset: 197
     length: 6
     placeholder_text: Expr
@@ -43,7 +43,7 @@ files:
     initialized_from_dependency: false
     possible_answer: Expr()
     selected: true
-    status: Unchecked
+    status: Solved
   - offset: 249
     length: 6
     placeholder_text: Expr
@@ -53,7 +53,7 @@ files:
     initialized_from_dependency: false
     possible_answer: Expr()
     selected: false
-    status: Unchecked
+    status: Solved
   text: |-
     fun eval(expr: Expr): Int =
             when (expr) {

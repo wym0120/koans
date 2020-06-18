@@ -4,8 +4,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 120
-    length: 6
+  - offset: 116
+    length: 178
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -17,17 +17,17 @@ files:
               orderedByAll.intersect(customer.getOrderedProducts())
           })
     selected: true
-    status: Unchecked
-  - offset: 189
-    length: 6
+    status: Solved
+  - offset: 357
+    length: 28
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 189
     initialized_from_dependency: false
     possible_answer: orders.flatMap(Order::products)
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |-
     // Return the set of products that were ordered by all customers
     fun Shop.getProductsOrderedByAll(): Set<Product> {
@@ -151,5 +151,5 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

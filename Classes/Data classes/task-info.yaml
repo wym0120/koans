@@ -13,7 +13,7 @@ files:
     initialized_from_dependency: false
     possible_answer: 'data class Person(val name: String, val age: Int)'
     selected: true
-    status: Unchecked
+    status: Solved
   text: |-
     class Person
 

@@ -24,7 +24,7 @@ files:
       operator fun MyDate.plus(timeIntervals: RepeatedTimeInterval) =
               addTimeIntervals(timeIntervals.timeInterval, timeIntervals.number)
     selected: true
-    status: Unchecked
+    status: Solved
   - offset: 737
     length: 44
     placeholder_text: TODO("Uncomment") //return today + YEAR * 2 + WEEK * 3 + DAY
@@ -35,7 +35,7 @@ files:
     initialized_from_dependency: false
     possible_answer: return today + YEAR * 2 + WEEK * 3 + DAY * 5
     selected: true
-    status: Unchecked
+    status: Solved
   text: |
     import TimeInterval.*
 
