@@ -1,4 +1,4 @@
-import javax.swing.JFrame
+        import javax.swing.JFrame
 import javax.swing.JLabel
 import javax.swing.JScrollPane
 import javax.swing.SwingConstants.CENTER
